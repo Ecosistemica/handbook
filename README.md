@@ -1,6 +1,6 @@
 # 🦮 Guida a Ecosistemica
 
-Questo l'handbook di Ecosistemica, un libro ipertestuale che racconta l'organizzazione nella sua interezza.
+Questo è l'handbook di Ecosistemica, un libro ipertestuale che racconta l'organizzazione nella sua interezza.
 
 In questo ambiente digitale potrai capire [cos’è](lorganizzazione/cose-ecosistemica.md), quali sono i suoi [valori](lorganizzazione/i-nostri-valori.md) e i suoi [accordi](broken-reference) interni, come è composto il suo[ ecosistema ](broken-reference)e quali sono i servizi che offre.&#x20;
 
