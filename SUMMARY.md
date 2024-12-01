@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
-* [🦮 Guida a Ecosistemica](<README (1).md>)
+* [🦮 Guida a Ecosistemica](README.md)
 
 ## 🌸 L'ORGANIZZAZIONE
 
