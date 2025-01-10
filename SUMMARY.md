@@ -4,19 +4,19 @@
 
 ## 🌸 L'ORGANIZZAZIONE
 
-* [Cos'è Ecosistemica](lorganizzazione/cose-ecosistemica/README.md)
-  * [I nostri servizi](lorganizzazione/cose-ecosistemica/i-nostri-servizi.md)
+* [Cos'è Ecosistemica](lorganizzazione/cose-ecosistemica.md)
+* [I nostri servizi](lorganizzazione/i-nostri-servizi.md)
 * [I nostri valori](lorganizzazione/i-nostri-valori.md)
 
-## 🌍 L'ECOSISTEMA
+## 🌍 LE IDENTITÀ
 
-* [Le identità](lecosistema/le-identita/README.md)
-  * [Bionti](lecosistema/le-identita/bionti.md)
-  * [Interferenti](lecosistema/le-identita/interferenti.md)
-  * [Sintropi](lecosistema/le-identita/sintropi.md)
-  * [Custodi](lecosistema/le-identita/custodi.md)
-* [Come entrare](lecosistema/come-entrare.md)
-* [Passaggi tra identità](lecosistema/passaggi-tra-identita.md)
+* [Tipologie di identità](le-identita/le-identita/README.md)
+  * [Bionti](le-identita/le-identita/bionti.md)
+  * [Interferenti](le-identita/le-identita/interferenti.md)
+  * [Sintropi](le-identita/le-identita/sintropi.md)
+  * [Custodi](le-identita/le-identita/custodi.md)
+* [Come entrare](le-identita/come-entrare.md)
+* [Passaggi tra identità](le-identita/passaggi-tra-identita.md)
 
 ## 🤝 ACCORDI
 

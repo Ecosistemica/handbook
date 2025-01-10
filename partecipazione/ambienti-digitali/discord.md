@@ -19,7 +19,7 @@ Per garantire la condivisione delle informazioni e allinearsi in modo efficace s
 
 ## Struttura
 
-All’ingresso nel server si assume il ruolo di [Bionti](../../lecosistema/le-identita/bionti.md) e si ha accesso alle seguenti categorie e ai relativi canali:&#x20;
+All’ingresso nel server si assume il ruolo di [Bionti](../../le-identita/le-identita/bionti.md) e si ha accesso alle seguenti categorie e ai relativi canali:&#x20;
 
 ### CANALI APERTI
 

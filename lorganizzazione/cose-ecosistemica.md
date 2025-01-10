@@ -19,7 +19,7 @@ Ci avvaliamo di strumenti e metodologie provenienti dal design dei processi e da
 * Progettazione di strutture e processi funzionali alle organizzazioni;
 * Reportistica e sessioni di restituzione data driven.
 
-Ecosistemica condivide una **cultura organizzativa** in costante evoluzione con [valori](../i-nostri-valori.md) e [accordi](broken-reference) interni espliciti che guidano le scelte individuali e collettive di chi ne fa parte.&#x20;
+Ecosistemica condivide una **cultura organizzativa** in costante evoluzione con [valori](i-nostri-valori.md) e [accordi](broken-reference) interni espliciti che guidano le scelte individuali e collettive di chi ne fa parte.&#x20;
 
 ## Con chi lavoriamo
 
