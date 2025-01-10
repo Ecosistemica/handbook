@@ -4,7 +4,8 @@
 
 ## 🌸 L'ORGANIZZAZIONE
 
-* [Cos'è Ecosistemica](lorganizzazione/cose-ecosistemica.md)
+* [Cos'è Ecosistemica](lorganizzazione/cose-ecosistemica/README.md)
+  * [I nostri servizi](lorganizzazione/cose-ecosistemica/i-nostri-servizi.md)
 * [I nostri valori](lorganizzazione/i-nostri-valori.md)
 
 ## 🌍 L'ECOSISTEMA
