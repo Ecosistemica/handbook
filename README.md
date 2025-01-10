@@ -1,21 +1,30 @@
 # 🦮 Guida a Ecosistemica
 
+
+
 {% hint style="info" %}
 Questa versione del nostro handbook è in fase di revisione. Rilasceremo a breve la versione 2.0!&#x20;
 {% endhint %}
 
-Questo è l'handbook di Ecosistemica, un libro ipertestuale che racconta l'organizzazione nella sua interezza.
+Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 
-In questo ambiente digitale potrai capire [cos’è](lorganizzazione/cose-ecosistemica.md), quali sono i suoi [valori](lorganizzazione/i-nostri-valori.md) e i suoi [accordi](broken-reference/) interni, come è composto il suo[ ecosistema ](broken-reference/)e quali sono i servizi che offre.
+Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md) e quali servizi offriamo, quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md) e i nostri [accordi](broken-reference/) interni, come è composto il nostro[ ecosistema](broken-reference/).
 
-Potrai, inoltre, comprendere come [entrare nel network ](lecosistema/come-entrare.md)e in che modo [partecipare](broken-reference/).
+Potrai, inoltre, sapere come [entrare nel network ](lecosistema/come-entrare.md)e in che modo [partecipare](broken-reference/).
 
-Alla fine dell'handbook potrete trovare un [glossario](glossario/) (in crescita costante) e potrete vedere nei [credits le persone e le organizzazioni che ci hanno ispirato](credits-e-revisioni.md).
+Alla fine dell'Handbook troverai un [glossario](glossario/) (in crescita costante) e potrai leggere nei [credits le persone e le organizzazioni che ci hanno ispirato](credits-e-revisioni.md).
 
 ### Per rimanere in contatto con noi puoi:
 
-Scriverci alla nostra mail [info@ecosistemica.org](mailto:info@ecosistemica.org)
+Entrare nel Discord
 
 Seguirci su [Linkedin](https://www.linkedin.com/company/ecosistemica)
 
 Iscriverti alla [Newsletter](https://mailchi.mp/2089a203f83d/ecosistemica)
+
+Iscriverti al [Calendario](https://calendar.google.com/calendar/u/0?cid=MzJjYzNjNWMyZjFjMzAwZDBkYjExZWM3Yzc3OTE1ZGZhZjE5ZTk3YmE5NDk2NjUyMWZjNDkyNTllNjIyMWFkZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) degli eventi aperti (tra cui il nostro Bookclub)
+
+Scriverci alla nostra mail [info@ecosistemica.org](mailto:info@ecosistemica.org)
+
+
+
