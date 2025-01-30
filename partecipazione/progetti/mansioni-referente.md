@@ -26,7 +26,7 @@ Chi è referente del progetto si occupa di creare la relativa cartella seguendo 
 Chi è referente del progetto:
 
 * Crea la board nominandola “ES\_\[nomeprogetto]”;
-* Invita gli altri membri del [gruppo di progetto](../../partecipazione/gruppi.md) e li rende admin (della board) affinchè possano modificare la struttura della board all’occorrenza;
+* Invita gli altri membri del [gruppo di progetto](../gruppi.md) e li rende admin (della board) affinchè possano modificare la struttura della board all’occorrenza;
 * Crea 4 colonne:
   1. **Link utili**, dove inserire schede con i link utili al progetto da avere sempre a disposizione (drive, documenti di studio, ecc);
   2. **Da fare**, dove si mettono tutte le card delle cose da fare non ancora assegnate a una persona del gruppo di progetto o una data di scadenza;

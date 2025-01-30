@@ -1,4 +1,4 @@
-# Metodi decisionali adottati
+# Metodi decisionali
 
 Le decisioni dentro Ecosistemica vengono prese seguendo l’assenso, il mandato e la consultazione.&#x20;
 

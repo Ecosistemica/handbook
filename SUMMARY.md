@@ -16,13 +16,11 @@
   * [Custodi](le-identita/le-identita/custodi.md)
 * [Passaggi tra identità](le-identita/passaggi-tra-identita.md)
 
-## 🤝 ACCORDI
-
 ## 🔮 PARTECIPAZIONE
 
-* [Posture](partecipazione/posture.md)
-* [Processi di lavoro](partecipazione/processi-di-lavoro.md)
-* [Trasformazione dei conflitti](partecipazione/trasformazione-dei-conflitti.md)
+* [Posture](accordi/posture.md)
+* [Processi di lavoro](accordi/processi-di-lavoro.md)
+* [Trasformazione dei conflitti](accordi/trasformazione-dei-conflitti.md)
 * [Gruppi](partecipazione/gruppi.md)
 * [Ambienti digitali](partecipazione/ambienti-digitali/README.md)
   * [Discord](partecipazione/ambienti-digitali/discord.md)
@@ -36,14 +34,14 @@
 
 * [Cerchi annidati](sistema-organizzativo/cerchi-annidati.md)
 * [Ruoli funzionali e operativi](sistema-organizzativo/ruoli-funzionali-e-operativi.md)
-* [Metodi decisionali](sistema-organizzativo/metodi-decisionali-adottati.md)
-* [Progetti](sistema-organizzativo/progetti/README.md)
-  * [Pre-progetti](sistema-organizzativo/progetti/pre-progetti.md)
-  * [Ruoli funzionali](sistema-organizzativo/progetti/ruoli-funzionali.md)
-  * [Mansioni referente](sistema-organizzativo/progetti/mansioni-referente.md)
-* [Ritualità interne](sistema-organizzativo/ritualita-interne.md)
-* [Ritualità aperte](sistema-organizzativo/ritualita-aperte/README.md)
-  * [Bookclub](sistema-organizzativo/ritualita-aperte/bookclub.md)
+* [Metodi decisionali](partecipazione/metodi-decisionali-adottati.md)
+* [Progetti](partecipazione/progetti/README.md)
+  * [Pre-progetti](partecipazione/progetti/pre-progetti.md)
+  * [Ruoli funzionali](partecipazione/progetti/ruoli-funzionali.md)
+  * [Mansioni referente](partecipazione/progetti/mansioni-referente.md)
+* [Ritualità interne](partecipazione/ritualita-interne.md)
+* [Ritualità aperte](partecipazione/ritualita-aperte/README.md)
+  * [Bookclub](partecipazione/ritualita-aperte/bookclub.md)
 
 ***
 

@@ -6,7 +6,7 @@ Ogni volta che si inizia un progetto che possa avere una certa continuità nel t
 
 ## Regole generali
 
-* la persona referente è responsabile di creare la board di progetto seguendo il processo codificato nelle[ mansioni del referente](../../sistema-organizzativo/progetti/mansioni-referente.md);
+* la persona referente è responsabile di creare la board di progetto seguendo il processo codificato nelle[ mansioni del referente](../progetti/mansioni-referente.md);
 * è necessario scrivere una **descrizione** all’interno di ogni card;
 * Trello è uno strumento, ma non è funzionale senza un **processo solido** di lavoro collettivo: per questo motivo si invita ogni gruppo di progetto a **fissare riunioni periodiche** per revisionare le task concluse, assegnarsi e prioritizzare nuove task;
 * è importante che le card siano più **granulari** possibili (con piccole attività e gestibili in poco tempo) in modo tale che possano essere risolte velocemente e non si crei una colonna del “Facendo” intasata.
