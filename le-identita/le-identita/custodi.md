@@ -1,8 +1,10 @@
 # Custodi
 
-Persone che dedicano il 100% del loro tempo lavorativo alla cura di Ecosistemica e per questo detengono una percentuale delle quote dell’organizzazione.
+Sono coloro che hanno la responsabilità della sopravvivenza di base di Ecosistemica e della sua sostenibilità nel tempo. Per questo hanno scelto di dedicare il 100% del loro tempo lavorativo alla cura dell’organizzazione e detengono una percentuale delle quote societarie.
 
-* Hanno tutti i diritti derivanti dal possedere le quote della società;
-* Hanno accesso all’amministrazione;
-* Hanno il diritto di proporre altre Custodi;
-* Hanno tutti i diritti delle altre identità.
+Le Custodi:&#x20;
+
+* hanno tutti i diritti e doveri derivanti dal possedere le quote della società;&#x20;
+* hanno accesso al Cerchio Ancora;&#x20;
+* hanno il diritto di proporre altre Custodi;&#x20;
+* hanno tutti gli accessi e i diritti delle altre identità.

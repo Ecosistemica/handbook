@@ -12,10 +12,8 @@
 
 * [Tipologie di identità](le-identita/le-identita/README.md)
   * [Bionti](le-identita/le-identita/bionti.md)
-  * [Interferenti](le-identita/le-identita/interferenti.md)
   * [Sintropi](le-identita/le-identita/sintropi.md)
   * [Custodi](le-identita/le-identita/custodi.md)
-* [Come entrare](le-identita/come-entrare.md)
 * [Passaggi tra identità](le-identita/passaggi-tra-identita.md)
 
 ## 🤝 ACCORDI

@@ -1,13 +1,7 @@
 # Sintropi
 
-Persone che hanno scelto di dedicare una parte significativa o la maggior parte del proprio tempo lavorativo a Ecosistemica.&#x20;
+Se l'entropia definisce il disordine al quale ogni sistema termodinamico tende, allora la sintropia - o nella tradizione anglosassone neghentropia - spinge i sistemi, soprattutto biologici, a stati di ordine, organizzazione e differenziazione maggiore. Abbiamo creato la parola “sintrope” perché ci aspettiamo che le persone che scelgono di abbracciare questa identità siano altamente ingaggiate nell'organizzazione e che queste garantiscano nuovi livelli di evoluzione. Si tratta quindi di persone che hanno scelto di dedicare in maniera intenzionale una parte significativa del proprio tempo lavorativo a Ecosistemica.
 
-Si può diventare Sintrope dopo aver collaborato strettamente con l’organizzazione per più di 6 mesi e chiedendo un incontro di valutazione e confronto, aperto alle altre Sintropi e ai Custodi.&#x20;
+Si può diventare Sintrope dopo aver collaborato strettamente con l’organizzazione per più di 6 mesi e chiedendo un incontro di valutazione e confronto, aperto alle Sintropi e ai Custodi.
 
-* Hanno accesso a tutte le informazioni sui vari ambienti digitali (ad esclusione della cartella ES\_Amministrazione su Google Drive);
-* Hanno il diritto di partecipare alla nomina di nuove Sintropi;
-* Hanno il diritto di partecipare alle retrospettive e ai retreat dell’organizzazione;
-* Hanno il diritto di partecipare alla revisione degli [accordi](broken-reference);
-* Hanno il diritto di creare nuovi [progetti](../../partecipazione/progetti/) (interni o esterni) a nome di Ecosistemica;
-* Hanno accesso al [gruppo missione](../../partecipazione/gruppi.md);
-* Hanno tutti i diritti delle Bionti e delle Interferenti.
+Le Sintropi: hanno accesso al Cerchio Generale, al Cerchio Cura, al Cerchio Progetti e ai relativi ambienti digitali; hanno il diritto di partecipare alla nomina di nuove Sintropi; hanno il diritto di partecipare alle retrospettive e ai retreat dell’organizzazione; hanno il diritto di partecipare alla revisione dell’Handbook; hanno tutti gli accessi e i diritti delle Bionti.
