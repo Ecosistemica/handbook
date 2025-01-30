@@ -9,7 +9,7 @@ Verrà scelto un libro, le persone lo leggeranno nello stesso periodo e si farà
 * Il bookclub ha una persona referente per ogni incontro che può eleggere altre persone ad assisterla;&#x20;
 * I compiti delle referenti sono:
   1. fissare giorno ed ora dell’evento di restituzione (è consigliato considerare un mese circa per un libro di 150-200 pag.);
-  2. inserire il libro su [Zotero](../ambienti-digitali/zotero.md) nella cartella "Bookclub";
+  2. inserire il libro su [Zotero](../../ambienti-digitali/ambienti-digitali/zotero.md) nella cartella "Bookclub";
   3. aprire una nuova board in [questo frame Miro](https://miro.com/app/board/uXjVMs24R24=/) (almeno una settimana prima dell’incontro) dove chiunque può, senza obbligo, appoggiare i primi appunti/spunti/pensieri;
   4. compilare l’[archivio](https://docs.google.com/spreadsheets/d/1N0J0lwP34S2QgxiQt4k0jZBS45hmBrHtRbk82r8gyME/edit#gid=0) con i dati del libro e dei partecipanti;
   5. facilitare l’incontro, facendo riferimento a [questo processo](https://docs.google.com/spreadsheets/d/1qSgX3A52C807SlwIxNqcccjvdz077LgdrcGb6eukGho/edit#gid=0).

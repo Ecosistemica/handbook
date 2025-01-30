@@ -8,9 +8,9 @@ Questa versione del nostro handbook è in fase di revisione. Rilasceremo a breve
 
 Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 
-Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md) e quali servizi offriamo, quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md) e i nostri [accordi](broken-reference/) interni, come è composto il nostro[ ecosistema](broken-reference/).
+Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md) e quali [servizi](lorganizzazione/i-nostri-servizi.md) offriamo, quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md) e i nostri [accordi](glossario/politiche-accordi.md) interni, come è composto il nostro[ ecosistema](broken-reference).
 
-Potrai, inoltre, sapere come [entrare nel network ](broken-reference)e in che modo [partecipare](broken-reference/).
+Potrai, inoltre, sapere come entrare nel network e in che modo [partecipare](broken-reference).
 
 Alla fine dell'Handbook troverai un [glossario](glossario/) (in crescita costante) e potrai leggere nei [credits le persone e le organizzazioni che ci hanno ispirato](credits-e-revisioni.md).
 

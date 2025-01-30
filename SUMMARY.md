@@ -21,14 +21,6 @@
 * [Posture](accordi/posture.md)
 * [Processi di lavoro](accordi/processi-di-lavoro.md)
 * [Trasformazione dei conflitti](accordi/trasformazione-dei-conflitti.md)
-* [Gruppi](partecipazione/gruppi.md)
-* [Ambienti digitali](partecipazione/ambienti-digitali/README.md)
-  * [Discord](partecipazione/ambienti-digitali/discord.md)
-  * [Drive](partecipazione/ambienti-digitali/drive.md)
-  * [Trello](partecipazione/ambienti-digitali/trello.md)
-  * [Calendar](partecipazione/ambienti-digitali/calendar.md)
-  * [Zotero](partecipazione/ambienti-digitali/zotero.md)
-  * [Miro](partecipazione/ambienti-digitali/miro.md)
 
 ## Sistema organizzativo
 
@@ -36,12 +28,23 @@
 * [Ruoli funzionali e operativi](sistema-organizzativo/ruoli-funzionali-e-operativi.md)
 * [Metodi decisionali](partecipazione/metodi-decisionali-adottati.md)
 * [Progetti](partecipazione/progetti/README.md)
-  * [Pre-progetti](partecipazione/progetti/pre-progetti.md)
-  * [Ruoli funzionali](partecipazione/progetti/ruoli-funzionali.md)
-  * [Mansioni referente](partecipazione/progetti/mansioni-referente.md)
+  * [Come avviare un progetto](sistema-organizzativo/progetti/come-avviare-un-progetto.md)
+  * [Mansioni guida](partecipazione/progetti/mansioni-referente.md)
+  * [Eventi pubblici](sistema-organizzativo/progetti/eventi-pubblici.md)
 * [Ritualità interne](partecipazione/ritualita-interne.md)
 * [Ritualità aperte](partecipazione/ritualita-aperte/README.md)
   * [Bookclub](partecipazione/ritualita-aperte/bookclub.md)
+
+## Ambienti digitali
+
+* [Discord](ambienti-digitali/discord.md)
+* [Ambienti digitali](ambienti-digitali/ambienti-digitali/README.md)
+  * [Discord](ambienti-digitali/ambienti-digitali/discord.md)
+  * [Drive](ambienti-digitali/ambienti-digitali/drive.md)
+  * [Trello](ambienti-digitali/ambienti-digitali/trello.md)
+  * [Calendar](ambienti-digitali/ambienti-digitali/calendar.md)
+  * [Zotero](ambienti-digitali/ambienti-digitali/zotero.md)
+  * [Miro](ambienti-digitali/ambienti-digitali/miro.md)
 
 ***
 
