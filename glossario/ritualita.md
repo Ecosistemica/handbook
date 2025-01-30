@@ -18,6 +18,8 @@ Catherine Bell, autrice di Ritual: Perspectives and dimensions definisce la ritu
 
 [Ippolita](https://www.ippolita.net/) nel capitolo Rituali Digitali nel libro Tecnologie del Dominio approfondisce come storicamente alcuni rituali siano stati uno strumento di dominio da parte di chi aveva un posizione di privilegio nel poterli utilizzare per plasmare la cultura di una certa fetta di popolazione. Nello stesso modo rituali e routine possono diventare uno strumento di controllo o di perdita di capacità critica all’interno di ambienti digitali. Questi spesso vengono progettati per massimizzare gli introiti facendo sì che le persone rimangano collegate il più possibile, alcune routine messe in campo rischiano di minare la salute e l’autonomia delle persone che utilizzano servizi e piattaforme social.
 
-### **È possibile approfondire queste tematiche attraverso la formazione e consulenza elaborata da Daniele Bucci (Ecosistemica) e Guglielmo Apolloni sui** [**rituali di governance nelle organizzazioni**](https://drive.google.com/file/d/1CUQeBdGE3CWXJTN0qpH5\_nq6NTKVgjcm/view)**.**
+È possibile approfondire queste tematiche attraverso la formazione e consulenza elaborata da Daniele Bucci (Ecosistemica) e Guglielmo Apolloni sui [rituali di governance nelle organizzazioni](https://drive.google.com/file/d/1CUQeBdGE3CWXJTN0qpH5_nq6NTKVgjcm/view).
+
+###
 
 \

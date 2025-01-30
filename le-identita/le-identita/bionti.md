@@ -1,6 +1,6 @@
 # Bionti
 
-Dal greco “vivente”, è chi abita gli ambienti (soprattutto digitali) di Ecosistemica, partecipando - se ne ha voglia - alle [ritualità aperte](../../partecipazione/ritualita-aperte/) o collaborando in specifici Cerchi di Progetto. Si può diventare Bionte direttamente entrando sul nostro server Discord e accettando gli Accordi di convivenza digitale.
+Dal greco “vivente”, è chi abita gli ambienti (soprattutto digitali) di Ecosistemica, partecipando - se ne ha voglia - alle [ritualità aperte](../../sistema-organizzativo/ritualita-aperte/) o collaborando in specifici Cerchi di Progetto. Si può diventare Bionte direttamente entrando sul nostro server Discord e accettando gli Accordi di convivenza digitale.
 
 Le Bionti:
 

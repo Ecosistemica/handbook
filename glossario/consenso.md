@@ -1,6 +1,6 @@
 # Consenso
 
-Il consenso è una [metodo decisionale](metodo-decisionale.md) che implica che **tutto il gruppo che sta prendendo la decisione si trovi d’accordo con la proposta**.
+Il consenso è un [metodo decisionale](metodo-decisionale.md) che implica che **tutto il gruppo che sta prendendo la decisione si trovi d’accordo con la proposta**.
 
 Ci sono delle soglie che si possono impostare prima del processo decisionale e queste implicano il numero di **accordi con riserva**, di **astensioni** o di **veti**.
 

@@ -8,7 +8,7 @@ Un progetto è tale quando risponde ai seguenti requisiti:&#x20;
 
 ## Regole generali:
 
-* Ogni progetto deve essere presente negli [ambienti digitali](../ambienti-digitali/) di Ecosistemica.
+* Ogni progetto deve essere presente negli [ambienti digitali](../../partecipazione/ambienti-digitali/) di Ecosistemica.
 * I documenti definitivi per consegne con partner vanno inviati via mail con accesso a tutte le persone del gruppo di lavoro;
 * I documenti interni di progetto possono essere condivisi con consulenti e partner esterni ma solo una volta che la collaborazione è stata avviata (per avvio si intende anche la partecipazione comune a un bando o la presentazione di un preventivo per un soggetto terzo);
 * Preventivi e fatture vanno inviati via mail mettendo sempre in copia gli amministratori di Ecosistemica.

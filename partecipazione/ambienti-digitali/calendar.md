@@ -4,8 +4,8 @@
 
 ## Esistono due calendari:&#x20;
 
-* [**Ecosistemica**](https://calendar.google.com/calendar/embed?src=c6ab44488de3af12bcd30d0e5c22436625f9ce2bc6ff3941bfe9a23fff2397a9%40group.calendar.google.com\&ctz=Europe%2FRome) (aperta a Sintropi), per **attività prettamente lavorative** relative ai gruppi di progetto, come call interne e incontri con committenti e partner, e per le [ritualità interne](../ritualita-interne.md);&#x20;
-* [**ES-eventi**](https://calendar.google.com/calendar/u/0?cid=MzJjYzNjNWMyZjFjMzAwZDBkYjExZWM3Yzc3OTE1ZGZhZjE5ZTk3YmE5NDk2NjUyMWZjNDkyNTllNjIyMWFkZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (aperta a Bionti), per [ritualità aperte](../ritualita-aperte/) e per **attività pubbliche** organizzate da Ecosistemica o a cui Sintropi partecipano a nome dell'organizzazione (quali conferenze, seminari, workshop).
+* [**Ecosistemica**](https://calendar.google.com/calendar/embed?src=c6ab44488de3af12bcd30d0e5c22436625f9ce2bc6ff3941bfe9a23fff2397a9%40group.calendar.google.com\&ctz=Europe%2FRome) (aperta a Sintropi), per **attività prettamente lavorative** relative ai gruppi di progetto, come call interne e incontri con committenti e partner, e per le [ritualità interne](../../sistema-organizzativo/ritualita-interne.md);&#x20;
+* [**ES-eventi**](https://calendar.google.com/calendar/u/0?cid=MzJjYzNjNWMyZjFjMzAwZDBkYjExZWM3Yzc3OTE1ZGZhZjE5ZTk3YmE5NDk2NjUyMWZjNDkyNTllNjIyMWFkZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (aperta a Bionti), per [ritualità aperte](../../sistema-organizzativo/ritualita-aperte/) e per **attività pubbliche** organizzate da Ecosistemica o a cui Sintropi partecipano a nome dell'organizzazione (quali conferenze, seminari, workshop).
 
 ## Regole generali
 

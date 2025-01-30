@@ -9,11 +9,11 @@ Verrà scelto un libro, le persone lo leggeranno nello stesso periodo e si farà
 * Il bookclub ha una persona referente per ogni incontro che può eleggere altre persone ad assisterla;&#x20;
 * I compiti delle referenti sono:
   1. fissare giorno ed ora dell’evento di restituzione (è consigliato considerare un mese circa per un libro di 150-200 pag.);
-  2. inserire il libro su [Zotero](../ambienti-digitali/zotero.md) nella cartella "Bookclub";
+  2. inserire il libro su [Zotero](../../partecipazione/ambienti-digitali/zotero.md) nella cartella "Bookclub";
   3. aprire una nuova board in [questo frame Miro](https://miro.com/app/board/uXjVMs24R24=/) (almeno una settimana prima dell’incontro) dove chiunque può, senza obbligo, appoggiare i primi appunti/spunti/pensieri;
   4. compilare l’[archivio](https://docs.google.com/spreadsheets/d/1N0J0lwP34S2QgxiQt4k0jZBS45hmBrHtRbk82r8gyME/edit#gid=0) con i dati del libro e dei partecipanti;
   5. facilitare l’incontro, facendo riferimento a [questo processo](https://docs.google.com/spreadsheets/d/1qSgX3A52C807SlwIxNqcccjvdz077LgdrcGb6eukGho/edit#gid=0).
-* Al termine di ogni incontro, la persona che ne era stata referente condivide [questo form](https://docs.google.com/forms/d/e/1FAIpQLSfecHoDc3ZDknz\_M5fDaMaQ2f888FRmKFlOWDxIYOs12fNG8A/viewform) nel canale Discord [#attività-condivise](https://discord.com/channels/1052582337608679444/1054411252195151912) per le proposte di lettura per il bookclub successivo;
+* Al termine di ogni incontro, la persona che ne era stata referente condivide [questo form](https://docs.google.com/forms/d/e/1FAIpQLSfecHoDc3ZDknz_M5fDaMaQ2f888FRmKFlOWDxIYOs12fNG8A/viewform) nel canale Discord [#attività-condivise](https://discord.com/channels/1052582337608679444/1054411252195151912) per le proposte di lettura per il bookclub successivo;
 * Tutte le persone che abitano lo spazio Discord hanno 3 giorni di tempo per proporre dei libri (al massimo due titoli) utilizzando il form;&#x20;
 * Se una persona ha portato già 2 libri di seguito come vincitrici, non potrà proporre il proprio libro;
 * Al termine del giro di proposte, la referente imposta un secondo form (su questo [modello](https://docs.google.com/forms/d/1jp8t0LePqlSAy2QFiYpeg0wWBXkgYLX6FWGHKOfP9Fw/edit)) per la votazione dei titoli emersi e dà altri 3 giorni per votare ciascun libro attraverso la seguente scala: 1 (Non mi interessa), 2 (Mi interessa), 3 (Mi interessa molto);

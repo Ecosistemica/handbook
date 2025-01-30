@@ -25,7 +25,7 @@ Le risorse disponibili sono caricate su [questa](https://drive.google.com/drive/
 * Se la risorsa è disponibile online in open access (su sito esterno o su nostra cartella Drive) va sempre messo il link tra i metadati di Zotero;
 * Per garantire l’accesso alla risorsa nel tempo è comunque sempre preferibile caricarla sulla cartella Drive condivisa, invece di un link al sito esterno originario;
 * Ogni volta che si carica una risorsa nella cartella drive deve anche essere mappata su Zotero;
-* Aggiungere, dopo il rituale di [Bookclub](../ritualita-aperte/bookclub.md), dentro ai metadati il link alle risorse generate collettivamente (doc, Miro, etc.).
+* Aggiungere, dopo il rituale di [Bookclub](../../sistema-organizzativo/ritualita-aperte/bookclub.md), dentro ai metadati il link alle risorse generate collettivamente (doc, Miro, etc.).
 
 ### Metadati indispensabili
 
