@@ -29,7 +29,6 @@
 * [Metodi decisionali](partecipazione/metodi-decisionali-adottati.md)
 * [Progetti](partecipazione/progetti/README.md)
   * [Come avviare un progetto](sistema-organizzativo/progetti/come-avviare-un-progetto.md)
-  * [Mansioni guida](partecipazione/progetti/mansioni-referente.md)
   * [Eventi pubblici](sistema-organizzativo/progetti/eventi-pubblici.md)
 * [Ritualità interne](partecipazione/ritualita-interne.md)
 * [Ritualità aperte](partecipazione/ritualita-aperte/README.md)

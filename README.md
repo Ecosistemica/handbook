@@ -2,21 +2,19 @@
 
 
 
-{% hint style="info" %}
-Questa versione del nostro handbook è in fase di revisione. Rilasceremo a breve la versione 2.0!&#x20;
-{% endhint %}
-
 Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 
-Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md) e quali [servizi](lorganizzazione/i-nostri-servizi.md) offriamo, quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md) e i nostri [accordi](glossario/politiche-accordi.md) interni, come è composto il nostro[ ecosistema](broken-reference).
+Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md) e quali [servizi](lorganizzazione/i-nostri-servizi.md) offriamo, quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md) e i nostri [accordi](glossario/politiche-accordi.md) interni, come è composto il nostro[ ](broken-reference)[sistema organizzativo](broken-reference).
 
 Potrai, inoltre, sapere come entrare nel network e in che modo [partecipare](broken-reference).
 
-Alla fine dell'Handbook troverai un [glossario](glossario/) (in crescita costante) e potrai leggere nei [credits le persone e le organizzazioni che ci hanno ispirato](credits-e-revisioni.md).
+Alla fine dell'Handbook troverai un [glossario](glossario/) (in crescita costante) e potrai leggere nei [credits](credits-e-revisioni.md) le persone e organizzazioni che hanno contribuito a scrivere, revisionare o ispirare con il loro lavoro questo testo.
 
-### Per rimanere in contatto con noi puoi:
+### Per entrare in contatto con noi e seguire le attività di Ecosistemica puoi:&#x20;
 
-Entrare nel [Discord](https://discord.com/invite/AydYXyAbq7)
+Visitare il nostro [sito](https://www.ecosistemica.org/)
+
+Entrare su [Discord](https://discord.com/invite/AydYXyAbq7)
 
 Seguirci su [Linkedin](https://www.linkedin.com/company/ecosistemica)
 

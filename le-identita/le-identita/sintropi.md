@@ -4,4 +4,10 @@ Se l'entropia definisce il disordine al quale ogni sistema termodinamico tende, 
 
 Si può diventare Sintrope dopo aver collaborato strettamente con l’organizzazione per più di 6 mesi e chiedendo un incontro di valutazione e confronto, aperto alle Sintropi e ai Custodi.
 
-Le Sintropi: hanno accesso al Cerchio Generale, al Cerchio Cura, al Cerchio Progetti e ai relativi ambienti digitali; hanno il diritto di partecipare alla nomina di nuove Sintropi; hanno il diritto di partecipare alle retrospettive e ai retreat dell’organizzazione; hanno il diritto di partecipare alla revisione dell’Handbook; hanno tutti gli accessi e i diritti delle Bionti.
+Le Sintropi:&#x20;
+
+* hanno accesso al Cerchio Generale, al Cerchio Cura, al Cerchio Progetti e ai relativi ambienti digitali;&#x20;
+* hanno il diritto di partecipare alla nomina di nuove Sintropi;&#x20;
+* hanno il diritto di partecipare alle retrospettive e ai retreat dell’organizzazione;&#x20;
+* hanno il diritto di partecipare alla revisione dell’Handbook;&#x20;
+* hanno tutti gli accessi e i diritti delle Bionti.
