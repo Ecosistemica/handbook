@@ -10,7 +10,7 @@
 ## Politiche generali di Calendar
 
 * Nella creazione dei singoli eventi, va prestata attenzione a scegliere dei **nomi comprensibili** anche alle altre persone che vi hanno accesso.
-* Tutte le date di **revisione di documenti** rilevanti vanno inserite sul calendario Ecosistemica;&#x20;
+* Tutte le date di **revisione di documenti** rilevanti vanno inserite sul calendario Ecosistemica.
 * Non includere mai attività di lavoro individuale o brevissime call di allineamento.
 * In alcuni casi è possibile invitare **persone esterne** all'organizzazione ai singoli eventi di Calendar (ad esempio, in caso di call di gruppo con partner o committenti).
 * In caso di call progettuali, va sempre inserito il link al documento Riunioni di progetto.

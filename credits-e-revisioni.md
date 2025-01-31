@@ -1,19 +1,16 @@
 # 🤗 Credits e Revisioni
 
-## Revisioni:
+## Versione 2.0
 
-**Data della versione 1.0:** 13/12/2023
+Data: 01/02/2025.
 
-**Data della prossima revisione:** 01/05/2024
+Scritta e revisionata da: Daniele Bucci, Stefano Capezzuto, Thomas Kemps.
 
-## **Scritta da:**
+## [Versione 1.0](https://github.com/Ecosistemica/handbook/releases/tag/v1.0)
 
-Daniele Bucci e Stefano Capezzuto.
+Data: 13/12/2023.
 
-## **Revisionata da:**
+Scritta da: Daniele Bucci e Stefano Capezzuto.\
+Revisionata da: Daniele Bucci, Stefano Capezzuto, Giulia Ganugi, Carmen Guarino, Thomas Kemps, Marta Marchiori Manerba, Elena Martinelli.
 
-Daniele Bucci, Stefano Capezzuto, Giulia Ganugi, Carmen Guarino, Thomas Kemps, Marta Marchiori Manerba, Elena Martinelli.
-
-## **Fonti di studio e d’ispirazione**:
-
-Salvatore Iaconesi, Nuovo Abitare, KRINO, CivicWise, Studio Superfluo, la Scuola Open Source, Boundaryless, Extinction Rebellion, Arete Training, Sociocracy for All, l'ufficio Public Engagement del museo MAXXI Roma coordinato da Sofia Bilotta, The Hum, Enspiral, Ouishare, Cocoon Pro, Corporate Rebels.
+Fonti di studio e d’ispirazione: Salvatore Iaconesi, Nuovo Abitare, KRINO, CivicWise, Studio Superfluo, l’ufficio Public Engagement del museo MAXXI coordinato da Sofia Bilotta la Scuola Open Source, Boundaryless, Ouishare, Extinction Rebellion, Sociocracy for All, Corporate Rebels, The Hum, Enspiral, Cocoon Pro.
