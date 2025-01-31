@@ -8,7 +8,7 @@
 * [I nostri servizi](lorganizzazione/i-nostri-servizi.md)
 * [I nostri valori](lorganizzazione/i-nostri-valori.md)
 
-## 🌍 LE IDENTITÀ
+## 👾 LE IDENTITÀ
 
 * [Tipologie di identità](le-identita/le-identita/README.md)
   * [Bionti](le-identita/le-identita/bionti.md)
@@ -22,7 +22,7 @@
 * [Processi di lavoro](accordi/processi-di-lavoro.md)
 * [Trasformazione dei conflitti](accordi/trasformazione-dei-conflitti.md)
 
-## Sistema organizzativo
+## 🕸️ Sistema organizzativo
 
 * [Cerchi annidati](sistema-organizzativo/cerchi-annidati.md)
 * [Ruoli funzionali e operativi](sistema-organizzativo/ruoli-funzionali-e-operativi.md)
@@ -33,7 +33,7 @@
 * [Ritualità interne](partecipazione/ritualita-interne.md)
 * [Ritualità aperte](sistema-organizzativo/ritualita-aperte.md)
 
-## Ambienti digitali
+## 🤖 Ambienti digitali
 
 * [Accesso agli ambienti digitali](ambienti-digitali/ambienti-digitali.md)
 * [Discord](ambienti-digitali/discord.md)
