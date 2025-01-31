@@ -31,19 +31,17 @@
   * [Come avviare un progetto](sistema-organizzativo/progetti/come-avviare-un-progetto.md)
   * [Eventi pubblici](sistema-organizzativo/progetti/eventi-pubblici.md)
 * [Ritualità interne](partecipazione/ritualita-interne.md)
-* [Ritualità aperte](partecipazione/ritualita-aperte/README.md)
-  * [Bookclub](partecipazione/ritualita-aperte/bookclub.md)
+* [Ritualità aperte](sistema-organizzativo/ritualita-aperte.md)
 
 ## Ambienti digitali
 
+* [Accesso agli ambienti digitali](ambienti-digitali/ambienti-digitali.md)
 * [Discord](ambienti-digitali/discord.md)
-* [Ambienti digitali](ambienti-digitali/ambienti-digitali/README.md)
-  * [Discord](ambienti-digitali/ambienti-digitali/discord.md)
-  * [Drive](ambienti-digitali/ambienti-digitali/drive.md)
-  * [Trello](ambienti-digitali/ambienti-digitali/trello.md)
-  * [Calendar](ambienti-digitali/ambienti-digitali/calendar.md)
-  * [Zotero](ambienti-digitali/ambienti-digitali/zotero.md)
-  * [Miro](ambienti-digitali/ambienti-digitali/miro.md)
+* [Drive](ambienti-digitali/drive.md)
+* [Trello](ambienti-digitali/trello.md)
+* [Calendar](ambienti-digitali/calendar.md)
+* [Zotero](ambienti-digitali/zotero.md)
+* [Miro](ambienti-digitali/miro.md)
 
 ***
 
