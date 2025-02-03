@@ -1,6 +1,6 @@
 # 🤗 Credits e Revisioni
 
-## Versione 2.0
+## Versione 2.0 (attuale)
 
 Data: 01/02/2025.
 

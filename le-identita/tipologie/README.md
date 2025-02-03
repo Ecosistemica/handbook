@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Tipologie di identità
 
 Ci sono varie tipologie di identità che è possibile assumere in Ecosistemica, in base alle quali corrispondono modalità di partecipazione e responsabilità differenti.

@@ -10,10 +10,10 @@
 
 ## 👾 LE IDENTITÀ
 
-* [Tipologie di identità](le-identita/le-identita/README.md)
-  * [Bionti](le-identita/le-identita/bionti.md)
-  * [Sintropi](le-identita/le-identita/sintropi.md)
-  * [Custodi](le-identita/le-identita/custodi.md)
+* [Tipologie di identità](le-identita/tipologie/README.md)
+  * [Bionti](le-identita/tipologie/bionti.md)
+  * [Sintropi](le-identita/tipologie/sintropi.md)
+  * [Custodi](le-identita/tipologie/custodi.md)
 * [Passaggi tra identità](le-identita/passaggi-tra-identita.md)
 
 ## 🔮 PARTECIPAZIONE
