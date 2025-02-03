@@ -4,7 +4,7 @@
 
 All’interno di esso si potranno scrivere messaggi al resto delle persone che frequentano l’organizzazione, gestire progetti, entrare nei canali vocali e fare riunioni.
 
-All’ingresso nel server si assume l’identità di [Bionte](../le-identita/tipologie/bionti.md) e si ha accesso ai canali presenti sotto la categoria CANALI APERTI. Le altre identità hanno accesso a dei canali interni specifici in base agli accordi riportati nella Tabella di accesso agli ambienti digitali per identità.
+All’ingresso nel server si assume l’identità di [Bionte](../identita/tipologie/bionti.md) e si ha accesso ai canali presenti sotto la categoria CANALI APERTI. Le altre identità hanno accesso a dei canali interni specifici in base agli accordi riportati nella Tabella di accesso agli ambienti digitali per identità.
 
 ## Politiche generali di Discord
 

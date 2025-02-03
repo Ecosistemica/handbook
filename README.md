@@ -2,13 +2,13 @@
 
 Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 
-Qui potrai capire [chi siamo](lorganizzazione/cose-ecosistemica.md), quali [servizi](lorganizzazione/i-nostri-servizi.md) offriamo e quali sono i nostri [valori](lorganizzazione/i-nostri-valori.md).&#x20;
+Qui potrai capire [chi siamo](organizzazione/chi-siamo.md), quali [servizi](organizzazione/servizi.md) offriamo e quali sono i nostri [valori](organizzazione/valori.md).&#x20;
 
 Potrai inoltre vedere quali [identità](broken-reference) è possibile assumere, leggere le nostre politiche di [partecipazione](broken-reference) ed esplorare il nostro[ ](broken-reference)[sistema organizzativo](broken-reference).
 
 Avrai anche una panoramica dei principali [ambienti digitali](broken-reference) che utilizziamo e delle modalità in cui abitarli.&#x20;
 
-Troverai infine un [glossario](glossario/) (in crescita costante) e lo storico delle [versioni](credits-e-revisioni.md) dell'Handbook, dove sono riportati i nomi delle persone e delle organizzazioni che hanno contribuito a scriverlo, revisionarlo o ispirarlo attraverso il loro lavoro.
+Troverai infine un [glossario](glossario/) (in crescita costante) e lo storico delle [versioni](versioni.md) dell'Handbook, dove sono riportati i nomi delle persone e delle organizzazioni che hanno contribuito a scriverlo, revisionarlo o ispirarlo attraverso il loro lavoro.
 
 ### Per entrare in contatto con noi e seguire le attività di Ecosistemica puoi:&#x20;
 
