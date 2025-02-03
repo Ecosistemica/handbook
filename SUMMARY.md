@@ -26,7 +26,7 @@
 
 * [Cerchi annidati](sistema-organizzativo/cerchi-annidati.md)
 * [Ruoli funzionali e operativi](sistema-organizzativo/ruoli.md)
-* [Metodi decisionali](partecipazione/metodi-decisionali-adottati.md)
+* [Metodi decisionali](sistema-organizzativo/metodi-decisionali.md)
 * [Progetti](partecipazione/progetti/README.md)
   * [Come avviare un progetto](sistema-organizzativo/progetti/come-avviare-un-progetto.md)
   * [Eventi pubblici](sistema-organizzativo/progetti/eventi-pubblici.md)
