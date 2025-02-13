@@ -30,6 +30,4 @@ Qui sotto puoi navigare la struttura di Ecosistemica. Cliccando sui vari Cerchi 
 
 
 
-{% embed url="https://embed.kumu.io/372d68d3fdc88e74600df5d56034f6d1" %}
-
-\
+{% embed url="https://embed.kumu.io/7438a0b50850f8339e4653ac368c6bca" %}
