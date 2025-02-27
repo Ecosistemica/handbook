@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦮 Guida a Ecosistemica](README.md)
+* [Guida a Ecosistemica](README.md)
 
 ## 🌸 L'ORGANIZZAZIONE <a href="#organizzazione" id="organizzazione"></a>
 
@@ -22,7 +22,7 @@
 * [Processi di lavoro](partecipazione/processi.md)
 * [Trasformazione dei conflitti](partecipazione/conflitti.md)
 
-## 🕸️ Sistema organizzativo
+## Sistema organizzativo
 
 * [Cerchi annidati](sistema-organizzativo/cerchi-annidati.md)
 * [Ruoli funzionali e operativi](sistema-organizzativo/ruoli.md)
@@ -33,7 +33,7 @@
 * [Ritualità interne](partecipazione/ritualita-interne.md)
 * [Ritualità aperte](sistema-organizzativo/ritualita-aperte.md)
 
-## 🤖 Ambienti digitali
+## Ambienti digitali
 
 * [Accesso agli ambienti digitali](ambienti-digitali/accesso.md)
 * [Discord](ambienti-digitali/discord.md)

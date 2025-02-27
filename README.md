@@ -1,4 +1,8 @@
-# 🦮 Guida a Ecosistemica
+---
+icon: book
+---
+
+# Guida a Ecosistemica
 
 Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 
