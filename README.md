@@ -1,8 +1,8 @@
 ---
-icon: book
+icon: compass
 ---
 
-# Guida a Ecosistemica
+# Guida all'Handbook
 
 Questo è l'Handbook di Ecosistemica, un manuale ipertestuale che racconta la nostra organizzazione.
 

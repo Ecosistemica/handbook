@@ -1,4 +1,8 @@
-# 🤗 Credits e Revisioni
+---
+icon: code-fork
+---
+
+# Versioni e credits
 
 ## Versione 2.0 (attuale)
 

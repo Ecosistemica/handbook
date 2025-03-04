@@ -1,4 +1,8 @@
-# 🔎 Glossario
+---
+icon: book-open
+---
+
+# Glossario
 
 In questa sezione potrete leggere come intendiamo alcune parole chiave del nostro lavoro.
 
