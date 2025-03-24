@@ -15,8 +15,9 @@ Ecosistemica è composta attualmente dai seguenti cerchi principali:&#x20;
 * **Cerchio Àncora**;&#x20;
 * **Cerchio Generale**;&#x20;
 * **Cerchio Cura**;&#x20;
-* **Cerchio Espansione**;
-* **Cerchio Progetti**, sotto il quale sono presenti i vari sottocerchi relativi agli specifici progetti.
+* **Cerchio Progetti**, sotto il quale sono presenti:
+  * **Cerchio Espansione**;&#x20;
+  * i vari sottocerchi relativi agli specifici progetti.
 
 La custodia e l’ancoraggio dell’organizzazione allo scopo condiviso è responsabilità del Cerchio Àncora, che rappresenta quello con lo scopo più ampio all’interno di Ecosistemica.
 
