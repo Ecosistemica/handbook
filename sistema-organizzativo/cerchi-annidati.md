@@ -10,7 +10,7 @@ Ciascun Cerchio definisce, attraverso un processo di assegnazione per assenso, l
 
 Il mandato e i titolari dei ruoli di guida di un Cerchio sono confermati per assenso dal suo sopracerchio, di cui diventa componente.
 
-Ecosistemica è composta attualmente dai seguenti cerchi principali:&#x20;
+Ecosistemica è composta attualmente dai seguenti cerchi:&#x20;
 
 * **Cerchio Àncora**;&#x20;
 * **Cerchio Generale**;&#x20;
