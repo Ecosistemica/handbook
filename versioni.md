@@ -6,7 +6,7 @@ icon: code-fork
 
 ## Tutti i contenuti sono rilasciati con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Versione 2.0 (attuale)
+## [Versione 2.0](https://github.com/Ecosistemica/handbook/releases/tag/v2.0) (attuale)
 
 Data: 30/04/2025.
 
