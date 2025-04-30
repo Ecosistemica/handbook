@@ -4,7 +4,7 @@ icon: code-fork
 
 # Versioni e credits
 
-## Tutti i contenuti sono rilasciati con licenza CC BY-SA 4.0
+## Tutti i contenuti sono rilasciati con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Versione 2.0 (attuale)
 
