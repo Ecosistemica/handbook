@@ -4,9 +4,11 @@ icon: code-fork
 
 # Versioni e credits
 
+## Tutti i contenuti sono rilasciati con licenza CC BY-SA 4.0
+
 ## Versione 2.0 (attuale)
 
-Data: 01/02/2025.
+Data: 30/04/2025.
 
 Scritta e revisionata da: Daniele Bucci, Stefano Capezzuto, Thomas Kemps.
 
